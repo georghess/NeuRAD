@@ -9,8 +9,18 @@
     </a>
 </p>
 
-This is the official repository for NeuRAD: Neural Rendering for Autonomous Driving. 
+This is the official repository for NeuRAD: Neural Rendering for Autonomous Driving.
 
-Code will be released soon! 
+Code will be released soon!
 
 ![neurad-capabilities](assets/frontfig.png)
+
+## BibTeX
+```bibtex
+@article{tonderski2023neurad,
+  title={NeuRAD: Neural Rendering for Autonomous Driving},
+  author={Tonderski, Adam and Lindstr{\"o}m, Carl and Hess, Georg and Ljungbergh, William and Svensson, Lennart and Petersson, Christoffer},
+  journal={arXiv preprint arXiv:2311.15260},
+  year={2023}
+}
+```
